@@ -14,7 +14,7 @@ body {
 
 <h1>Prototype 1</h1>
 
-<p>✖️⬜️</p>
+<p>x0</p>
 <br>
 <br>
 <a href="shortcuts://run-shortcut?name=GameShort Prototype 1&input=right">Move</a>
