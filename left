@@ -4,20 +4,18 @@
 <title>Page Title</title>
 <style>
 body {
-  background-color: black;
+  background-color: yellow;
   text-align: center;
-  color: white;
+  color: black;
 }
 </style>
 </head>
 <body>
 
-<h1>Prototype 1</h1>
+<h1>Sorry :( </h1>
 
-<p>x0</p>
+<p>Development for this Shortcut stopped</p>
 <br>
 <br>
-<a href="shortcuts://run-shortcut?name=GameShort Prototype 1&input=right">Move</a>
-
 </body>
 </html>
